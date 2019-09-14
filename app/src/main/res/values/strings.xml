@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">FirebaseShoppingList</string>
+    <string name="register_user">Create Account.</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_email_required">E-mail is required</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="make_login">Login ...</string>
+    <string name="name">Name</string>
+    <string name="error_name_required">Name is required</string>
+    <string name="price">Amount</string>
+    <string name="save_item">Save item</string>
+    <string name="make_save">Saving ...</string>
+    <string name="make_checked">Checking ...</string>
+    <string name="remove_item">Remove</string>
+    <string name="amount">Amount:</string>
 </resources>
